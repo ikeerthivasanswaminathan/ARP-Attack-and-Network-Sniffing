@@ -42,13 +42,6 @@ In Metasploit open the ftp console as below. Also you can try other ftp websites
 
 <img width="1920" height="945" alt="image" src="https://github.com/user-attachments/assets/0e52cd9f-4062-469a-b866-e48e12b05f60" />
 
-In Kali issue the following commands:
-sudo dsnifff
-
-## OUTPUT:
-
-Invoke the wireshark and examine the various menus  and controls of the tool:
-
 ## RESULT:
 
 The kali linux tools for ARP Attack and Network Sniffing were identified successfully.
